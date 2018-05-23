@@ -4,4 +4,4 @@ draft = true
 title = "Invertir palta"
 
 +++
-das
+¿Qué queremos decir con Invierte Palta?
