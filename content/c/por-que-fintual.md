@@ -1,7 +1,8 @@
 ---
 title: "¿Por qué Fintual?"
 date: 2018-05-23 10:00:27 -0400
-
+type: "page"
+layout: "landing"
 ---
 #### Lee aquí por qué te conviene fintual
 
