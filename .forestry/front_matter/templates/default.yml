@@ -17,3 +17,7 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Los tags son palabras clave del post
