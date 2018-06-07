@@ -3,3 +3,6 @@ languageCode = "es"
 DefaultContentLanguage= "es"
 title = "Contenido Fintual"
 theme = "hugo-theme-blueberry-detox"
+
+[params]
+  author = "Fintual, Inc."
