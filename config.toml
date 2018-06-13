@@ -1,4 +1,4 @@
-baseURL = "http://fintual.com/"
+baseURL = "http://pl-fintual-staging.herokuapp.com"
 languageCode = "es"
 DefaultContentLanguage= "es"
 title = "Contenido Fintual"
