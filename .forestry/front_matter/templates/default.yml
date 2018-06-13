@@ -21,3 +21,5 @@ fields:
   name: tags
   label: Tags
   description: Los tags son palabras clave del post
+pages:
+- blog/juan-cristobal-guarello---para-los-grandes-hombres-de-negocios--especular-es-mejor-que-el-sexo-.md
