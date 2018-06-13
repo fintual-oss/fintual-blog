@@ -1,4 +1,4 @@
-baseURL = "https://fintual.com/"
+baseURL = "http://fintual.com/"
 languageCode = "es"
 DefaultContentLanguage= "es"
 title = "Contenido Fintual"
