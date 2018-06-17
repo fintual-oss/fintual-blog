@@ -5,8 +5,6 @@ tags = ["fondos mutuos"]
 title = "¿Qué son los fondos mutuos?"
 
 +++
-# ¿Qué son los fondos mutuos?
-
 ### Los Fondos Mutuos son un tipo de inversión en que muchas personas aportan dinero y una empresa se preocupa de administrarlo.
 
 Es como un "fondo común" donde la empresa que administra define algunas reglas de cómo se invertirá la plata.
