@@ -9,7 +9,7 @@ title = "¿Qué son los fondos mutuos?"
 
 Esta empresa no trabaja gratis, **cobra una comisión** por administrar la plata y a veces no es nada de poco.
 
-La cantidad de dinero que cobra un fondo mutuo puede afectar fuertemente la rentabilidad que obtienes cuando inviertes, sin embargo, en general la gente no mira en detalle lo que le cobran antes de invertir.
+La comisión (o "remuneración") que cobra un fondo mutuo puede afectar fuertemente la rentabilidad que obtienes cuando inviertes, sin embargo, en general la gente no mira en detalle lo que le cobran antes de invertir.
 
 Si estás pensando en invertir en Fondos Mutuos, te recomendamos mirar en detalle cuánto te cobran.
 
