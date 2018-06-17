@@ -7,8 +7,6 @@ title = "¿Qué son los fondos mutuos?"
 +++
 ### Los Fondos Mutuos son un tipo de inversión en que muchas personas aportan dinero y una empresa se preocupa de administrarlo.
 
-Es como un "fondo común" donde la empresa que administra define algunas reglas de cómo se invertirá la plata.
-
 Esta empresa no trabaja gratis, **cobra una comisión** por administrar la plata y a veces no es nada de poco.
 
 La cantidad de dinero que cobra un fondo mutuo puede afectar fuertemente la rentabilidad que obtienes cuando inviertes, sin embargo, en general la gente no mira en detalle lo que le cobran antes de invertir.
