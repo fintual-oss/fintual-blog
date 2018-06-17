@@ -13,6 +13,4 @@ La comisión (o "remuneración") que cobra un fondo mutuo puede afectar fuerteme
 
 Si estás pensando en invertir en Fondos Mutuos, te recomendamos mirar en detalle cuánto te cobran.
 
-Fintual es una "Administradora General de Fondos", regulada por la Comisión de Mercado Financiero (CMF), que tiene sus procesos automatizados y por lo tanto puede cobrar menos.
-
 Aprende más sobre comisiones [aquí](fintual.com/simulador "Comisiones")
