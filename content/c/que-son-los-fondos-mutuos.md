@@ -13,4 +13,4 @@ La comisión (o "remuneración") que cobra un fondo mutuo puede afectar fuerteme
 
 Si estás pensando en invertir en Fondos Mutuos, te recomendamos mirar en detalle cuánto te cobran.
 
-Aprende más sobre comisiones [aquí](fintual.com/simulador "Comisiones")
+Aprende más sobre comisiones [aquí](https://fintual.com/simulador "Comisiones")
