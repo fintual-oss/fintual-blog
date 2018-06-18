@@ -1,6 +1,6 @@
 +++
 date = "2018-06-13T22:52:16+00:00"
-draft = true
+draft = false
 tags = ["fondos mutuos"]
 title = "¿Qué son los fondos mutuos?"
 
