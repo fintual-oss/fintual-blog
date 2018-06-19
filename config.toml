@@ -1,7 +1,7 @@
-baseURL = "http://fintual.com/"
+baseURL = "http://edu.fintual.com/"
 languageCode = "es"
 DefaultContentLanguage= "es"
-title = "Contenido Fintual"
+title = "Blog de Fintual"
 theme = "hugo-theme-blueberry-detox"
 
 [params]
