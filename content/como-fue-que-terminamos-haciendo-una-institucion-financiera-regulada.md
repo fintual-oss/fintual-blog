@@ -13,8 +13,7 @@ Era 2016. Hace poco habíamos fundado Buda.com con Guille Torrealba y queríamos
 
 Pedro llegó con sus 2 socios Omar y Andrés, y nos presentó “Fininci”
 
-
-Ti prisintimis Fininci !
+![](/uploads/fininci_small.jpg)Ti prisintimis Fininci !
 
 Nos tragamos la risa por el nombre malo que habían elegido, y ellos empezaron a contarnos la idea mientras todos saboreábamos la carne con puré hecha por la Vicky.
 
@@ -41,7 +40,7 @@ Los ETFs son fondos super hiper baratos, cobran del orden de 0.05% al año, y lo
 
 Resulta que los ETFs son la forma más eficiente de invertir de manera “pasiva y diversificada”, que es lo que recomienda ni más ni menos que Warren Buffet, el famoso magnate gringo que a estas alturas es como un gurú internacional de las inversiones.
 
-Warren Buffet mascando un helado de mango
+![](/uploads/warren.jpg)Warren Buffet mascando un helado de mango
 Warren los recomienda porque al final seguir a estos índices es mejor que andar tratando de adivinar qué acciones comprar, termina siendo igual de rentable o incluso mejor.
 
 Ya pero ¿Por qué la gente no invierte directamente en ETFs? preguntamos.
@@ -67,4 +66,3 @@ Infórmese de las características esenciales de la inversión en este fondo mut
 La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
 
 Eso es todo! gracias por llegar hasta acá!
-
