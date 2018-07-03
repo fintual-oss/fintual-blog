@@ -21,7 +21,3 @@ fields:
   name: tags
   label: Tags
   description: Los tags son palabras clave del post
-pages:
-- content/blog/juan-cristobal-guarello---para-los-grandes-hombres-de-negocios--especular-es-mejor-que-el-sexo-.md
-- content/c/que-son-los-fondos-mutuos.md
-- content/c/por-que-no-te-convienen-los-fondos-mutuos.md
