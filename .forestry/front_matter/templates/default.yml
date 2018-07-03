@@ -21,3 +21,5 @@ fields:
   name: tags
   label: Tags
   description: Los tags son palabras clave del post
+pages:
+- content/como-fue-que-terminamos-haciendo-una-institucion-financiera-regulada.md
