@@ -1,8 +1,14 @@
-baseURL = "http://edu.fintual.com/"
+baseURL = "http://blog.fintual.com/"
 languageCode = "es"
 DefaultContentLanguage= "es"
-title = "Blog de Fintual"
-theme = "hugo-theme-blueberry-detox"
+title = "El periódico de Fintual Inc."
+theme = "pixyll"
 
 [params]
   author = "Fintual, Inc."
+[menu]
+  [[menu.main]]
+      name = "Home"
+      weight = 1
+      identifier = "home"
+      url = "/"
